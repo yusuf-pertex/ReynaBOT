@@ -25,6 +25,8 @@
 ## © ReynaBOT
 **ReynaBOT** adalah BOT [**WhatsApp**](https://www.whatsapp.com) yang dibuat oleh [**@yusuf.dkv**](https://www.instagram.com/yusuf.dkv/) menggunakan bahasa pemrograman `JavaScript`
 
+> Script BOT ini menggunakan client library [`whatsapp-web.js »`](https://github.com/pedroslopez/whatsapp-web.js.git)
+
 `BOT akan di-Update setiap minggu`
 
 <details>
@@ -43,8 +45,6 @@
 </details>
 
 ## Cara Pakai
-> Script BOT ini menggunakan client library [`whatsapp-web.js »`](https://github.com/pedroslopez/whatsapp-web.js.git)
-
 ### Command Prompt
 1. Buka **Command Prompt**
 2. Mengkloning Repository
