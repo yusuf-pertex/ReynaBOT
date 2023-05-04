@@ -1,13 +1,13 @@
 {
-  "name": "Reyna",
+  "name": "ReynaBOT",
   "version": "1.0.0",
-  "description": "BOT WhatsApp",
+  "description": "WhatsApp BOT by @yusuf.dkv",
   "main": "index.mjs",
   "scripts": {
     "start": "nodemon index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Yusuf",
+  "author": "yusufexpert",
   "license": "MIT",
   "dependencies": {
     "awesome-phonenumber": "^5.5.0",
@@ -25,5 +25,28 @@
     "syntax-error": "^1.4.0",
     "url": "^0.11.0",
     "whatsapp-web.js": "^1.19.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufexpert/ReynaBOT.git"
+  },
+  "keywords": [
+    "api",
+    "bot",
+    "bot-api",
+    "whatsapp",
+    "whatsapp-web",
+    "whatsapp-bot",
+    "whatsapp-api",
+    "whatsapp-web-api",
+    "whatsapp-web-js",
+    "whatsapp-bot-api",
+    "reyna-bot",
+    "reynabot"
+  ],
+  "bugs": {
+    "url": "https://github.com/yusufexpert/ReynaBOT/issues"
+  },
+  "homepage": "https://github.com/yusufexpert/ReynaBOT#readme"
 }
