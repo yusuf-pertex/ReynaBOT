@@ -27,7 +27,7 @@
 
 > Script BOT ini menggunakan client library [`whatsapp-web.js »`](https://github.com/pedroslopez/whatsapp-web.js.git)
 
-`BOT akan di-Update setiap minggu`
+![info](https://img.shields.io/badge/INFO-BOT%20akan%20di%20update%20setiap%20minggu-brightgreen?style=flat-square)
 
 <details>
   <summary><strong>Daftar isi</strong></summary>
