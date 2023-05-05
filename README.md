@@ -23,7 +23,7 @@
 </div>
 
 ## © ReynaBOT
-**ReynaBOT** adalah BOT ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) yang dibuat oleh ![@yusuf.dkv](https://img.shields.io/badge/@yusuf.dkv-E4405F?style=flat&logo=instagram&logoColor=white) menggunakan bahasa pemrograman ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**ReynaBOT** adalah BOT ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) yang dibuat oleh [![@yusuf.dkv](https://img.shields.io/badge/@yusuf.dkv-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yusuf.dkv/) menggunakan bahasa pemrograman ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 > Script BOT ini menggunakan client library [`whatsapp-web.js »`](https://github.com/pedroslopez/whatsapp-web.js.git)
 
@@ -34,7 +34,7 @@
 <ol>
   <li><a href="#cara-pakai">Cara Pakai »</a></li>
     <ul>
-      <li><a href="#command-prompt">Command Prompt »</a></li>
+      <li><a href="#terminal">Terminal »</a></li>
       <li><a href="#replit">Replit »</a></li>
     </ul>
   <li><a href="#cara-menambah-plugin">Cara menambah Plugin »</a></li>
@@ -45,7 +45,8 @@
 </details>
 
 ## Cara Pakai
-### Terminal ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
+### Terminal
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
 1. Buka **Terminal**
 2. Mengkloning Repository
    ```sh
@@ -65,7 +66,8 @@
    npm start
    ```
 
-### Replit ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
+### Replit
+![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
 Untuk pengguna Replit ada beberapa hal yang harus dilakukan.
 1. Ubah **Script** di file [`index.mjs`](https://github.com/yusufexpert/ReynaBOT/blob/master/index.mjs) menjadi seperti ini:
 ```js
