@@ -23,7 +23,7 @@
 </div>
 
 ## © ReynaBOT
-**ReynaBOT** adalah BOT [**WhatsApp**](https://www.whatsapp.com) yang dibuat oleh [**@yusuf.dkv**](https://www.instagram.com/yusuf.dkv/) menggunakan bahasa pemrograman `JavaScript`
+**ReynaBOT** adalah BOT ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) yang dibuat oleh ![@yusuf.dkv](https://img.shields.io/badge/@yusuf.dkv-E4405F?style=flat&logo=instagram&logoColor=white) menggunakan bahasa pemrograman ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 > Script BOT ini menggunakan client library [`whatsapp-web.js »`](https://github.com/pedroslopez/whatsapp-web.js.git)
 
@@ -45,8 +45,8 @@
 </details>
 
 ## Cara Pakai
-### Command Prompt
-1. Buka **Command Prompt**
+### Terminal ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
+1. Buka **Terminal**
 2. Mengkloning Repository
    ```sh
    git clone https://github.com/yusufexpert/ReynaBOT.git
@@ -65,7 +65,7 @@
    npm start
    ```
 
-### Replit
+### Replit ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
 Untuk pengguna Replit ada beberapa hal yang harus dilakukan.
 1. Ubah **Script** di file [`index.mjs`](https://github.com/yusufexpert/ReynaBOT/blob/master/index.mjs) menjadi seperti ini:
 ```js
