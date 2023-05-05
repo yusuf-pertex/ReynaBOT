@@ -9,9 +9,9 @@
   <h2 align="center">© ReynaBOT</h2>
 
   <p align="center">
-    Simple WhatsApp BOT by <a href="https://wa.me/6283873115706"><strong>@yusuf.dkv</strong></a>
+    Simple WhatsApp BOT by <a href="https://wa.me/6283873115706"><b>@yusuf.dkv</b></a>
     <br />
-    <a href="https://github.com/yusufexpert/ReynaBOT/blob/master/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/yusufexpert/ReynaBOT/blob/master/README.md"><b>Explore the docs »</b></a>
     <br />
     <br />
     <a href="https://wa.me/6283873115706">Contact</a>
@@ -29,14 +29,9 @@
 
 ![info](https://img.shields.io/badge/INFO-BOT%20akan%20di%20update%20setiap%20minggu-brightgreen?style=flat-square)
 
-<details>
-  <summary><strong>Daftar isi</strong></summary>
+<b><details><summary>Daftar isi</summary></b>
 <ol>
   <li><a href="#cara-pakai">Cara Pakai »</a></li>
-    <ul>
-      <li><a href="#terminal">Terminal »</a></li>
-      <li><a href="#replit">Replit »</a></li>
-    </ul>
   <li><a href="#cara-menambah-plugin">Cara menambah Plugin »</a></li>
   <li><a href="#fitur-unggulan">Fitur Unggulan »</a></li>
   <li><a href="#license">License »</a></li>
@@ -45,33 +40,43 @@
 </details>
 
 ## Cara Pakai
-### Terminal
+
+**Requirements:**
+- [![Git](https://img.shields.io/badge/Git-Download-F05032?style=flat&labelColor=white&logo=git)](https://git-scm.com/downloads)
+- [![NodeJs](https://img.shields.io/badge/Node.js-Download-339933?style=flat&labelColor=white&logo=nodedotjs)](https://nodejs.org/en/download)
+- [![FFmpeg](https://img.shields.io/badge/FFmpeg-Download-007808?style=flat&labelColor=white&logo=ffmpeg&logoColor=007808)](https://ffmpeg.org/download.html)
+
+<ol>
+<details><summary><b>Terminal</b></summary>
+
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
 
-1. Buka **Terminal**
-2. Mengkloning Repository
+- Buka **Terminal**
+- Mengkloning Repository
    ```sh
    git clone https://github.com/yusufexpert/ReynaBOT.git
    ```
-3. Buka Directory Script ini
+- Buka Directory Script ini
    ```sh
    cd ReynaBOT
    ```
-4. Install semua **Module** yang dibutuhkan.
-   - lihat di [`package.json »`](https://github.com/yusufexpert/ReynaBOT/blob/master/package.json)
+- Install semua **Module** yang dibutuhkan.
+  - lihat di [`package.json »`](https://github.com/yusufexpert/ReynaBOT/blob/master/package.json)
    ```sh
    npm install <nama module>
    ```
-5. Memulai BOT
+- Memulai BOT
    ```sh
    npm start
    ```
 
-### Replit
+</details>
+<details><summary><b>Replit</b></summary>
+
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
 
 Untuk pengguna Replit ada beberapa hal yang harus dilakukan.
-1. Ubah **Script** di file [`index.mjs`](https://github.com/yusufexpert/ReynaBOT/blob/master/index.mjs) menjadi seperti ini:
+- Ubah **Script** di file [`index.mjs`](https://github.com/yusufexpert/ReynaBOT/blob/master/index.mjs) menjadi seperti ini:
 ```js
 const client = new Client({
     authStrategy: new LocalAuth({
@@ -85,8 +90,8 @@ const client = new Client({
     }
 })
 ```
-2. Tampilkan dulu file tersembunyi di **Replit**.
-   - Lalu ubah file `replit.nix` menjadi seperti ini:
+- Tampilkan dulu file tersembunyi di **Replit**.
+  - Lalu ubah file `replit.nix` menjadi seperti ini:
 ```nixos
 { pkgs }: {
 	deps = [
@@ -101,7 +106,11 @@ const client = new Client({
 	];
 }
 ```
-3. Jalankan **Replit** seperti biasa.
+- Jalankan **Replit** seperti biasa.
+
+</details>
+</ol>
+</details>	
 
 ## Cara menambah Plugin
 Jika ingin menambahkan **Plugin** sendiri anda harus membuatnya di Folder [`plugins »`](https://github.com/yusufexpert/ReynaBOT/tree/master/plugins)
