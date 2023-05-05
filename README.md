@@ -47,6 +47,7 @@
 ## Cara Pakai
 ### Terminal
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
+
 1. Buka **Terminal**
 2. Mengkloning Repository
    ```sh
@@ -68,6 +69,7 @@
 
 ### Replit
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
+
 Untuk pengguna Replit ada beberapa hal yang harus dilakukan.
 1. Ubah **Script** di file [`index.mjs`](https://github.com/yusufexpert/ReynaBOT/blob/master/index.mjs) menjadi seperti ini:
 ```js
