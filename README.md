@@ -115,6 +115,9 @@ const client = new Client({
 
 ---
 
+
+
+
 ### Cara menambah Plugin
 Jika ingin menambahkan **Plugin** sendiri anda harus membuatnya di Folder [`plugins »`](https://github.com/yusufexpert/ReynaBOT/tree/master/plugins)
 
