@@ -158,6 +158,6 @@ Didistribusikan di bawah Lisensi MIT. Lihat [`LICENSE`](https://github.com/yusuf
 - [![Instagram](https://img.shields.io/badge/@yusuf.dkv-E4405F?style=flat&logoColor=white&logo=instagram)](https://www.instagram.com/yusuf.dkv/)
 - [![Gmail](https://img.shields.io/badge/yusuf.expert.official@gmail.com-EA4335?style=flat&logoColor=white&logo=gmail)](yusuf.expert.official@gmail.com)
 
-<p align="right"><a href="#readme-top">↑ Back to top</a></p>
+<p align="right"><a href="#top">↑ Back to top</a></p>
 
 [**github.com/yusufexpert/ReynaBOT**](https://github.com/yusufexpert/ReynaBOT)
