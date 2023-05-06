@@ -1,18 +1,18 @@
 <a name="readme-top"></a>
 
-<br />
+<br>
 <div align="center">
   <a href="Logo">
     <img src="https://cdn.pixabay.com/photo/2018/09/11/14/49/moe-3669736_1280.png" alt="Logo" width="200">
   </a>
-  <br /><br />
+  <br><br>
   <img src="https://img.shields.io/badge/%C2%A9-ReynaBOT-white?style=flat" alt="ReynaBOT" width="125">
   <p align="center">
     Simple WhatsApp BOT by <a href="https://wa.me/6283873115706"><b>@yusuf.dkv</b></a>
-    <br />
+    <br>
     <a href="https://github.com/yusufexpert/ReynaBOT/blob/master/README.md"><b>Explore the docs »</b></a>
-    <br />
-    <br />
+    <br>
+    <br>
     <a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/Contact-blue?style=flat" alt="Contact" height="25"></a>
     <a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/Request%20Feature-blue?style=flat" alt="Request Feature" height="25"></a>
     <a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/Report%20Bug-blue?style=flat" alt="Report Bug" height="25"></a>
@@ -26,7 +26,7 @@
 
 > **Note** Script BOT ini menggunakan client library [`whatsapp-web.js »`](https://github.com/pedroslopez/whatsapp-web.js.git)
 
----
+<hr>
 
 <details>
 <summary>Daftar isi</summary>
@@ -39,7 +39,7 @@
 </ol>
 </details>
 
----
+<hr>
 
 ### Cara Pakai
 
@@ -117,7 +117,7 @@ const client = new Client({
 </details>
 
 
----
+<hr>
 
 
 
@@ -137,7 +137,7 @@ export default {
 }
 ```
 
----
+<hr>
 
 ### Fitur unggulan
 - [x] Mudah untuk digunakan.
@@ -149,12 +149,12 @@ export default {
 
 Lihat di folder [`plugins`](https://github.com/yusufexpert/ReynaBOT/tree/master/plugins) untuk melihat semua Plugin.
 
----
+<hr>
 
 ### License
 Didistribusikan di bawah Lisensi MIT. Lihat [`LICENSE`](https://github.com/yusufexpert/ReynaBOT/blob/master/LICENSE) untuk informasi lebih lanjut.
 
----
+<hr>
 
 ### Contact
 - [![WhatsApp](https://img.shields.io/badge/+62%20838%207311%205706-25D366?style=flat&logoColor=white&logo=whatsapp)](https://wa.me/6283873115706)
