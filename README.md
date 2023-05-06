@@ -45,7 +45,7 @@
 - [![NodeJs](https://img.shields.io/badge/Node.js-Download-339933?style=flat&labelColor=white&logo=nodedotjs)](https://nodejs.org/en/download)
 - [![FFmpeg](https://img.shields.io/badge/FFmpeg-Download-007808?style=flat&labelColor=white&logo=ffmpeg&logoColor=007808)](https://ffmpeg.org/download.html)
 
-
+<ul>
 <details>
 <summary>Terminal</summary>
 <div markdown="1">
@@ -115,6 +115,7 @@ const client = new Client({
 
 </div>
 </details>
+</ul>
 
 <hr>
 
