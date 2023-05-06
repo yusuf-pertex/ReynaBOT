@@ -6,7 +6,7 @@
     <img src="https://cdn.pixabay.com/photo/2018/09/11/14/49/moe-3669736_1280.png" alt="Logo" width="200">
   </a>
   <br /><br />
-  <img src="https://img.shields.io/badge/%C2%A9-ReynaBOT-white?style=flat" alt="ReynaBOT" width="150">
+  <img src="https://img.shields.io/badge/%C2%A9-ReynaBOT-white?style=flat" alt="ReynaBOT" width="125">
   <p align="center">
     Simple WhatsApp BOT by <a href="https://wa.me/6283873115706"><b>@yusuf.dkv</b></a>
     <br />
