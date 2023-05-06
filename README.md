@@ -52,7 +52,7 @@
 <details><summary>Terminal</summary>
 
 
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
+
 
 - Buka **Terminal**
 - Mengkloning Repository
@@ -78,7 +78,7 @@
 <details><summary>Replit</summary>
 
 
-![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
+![Replit](https:/
 
 Untuk pengguna Replit ada beberapa hal yang harus dilakukan.
 - Ubah **Script** di file [`index.mjs`](https://github.com/yusufexpert/ReynaBOT/blob/master/index.mjs) menjadi seperti ini:
