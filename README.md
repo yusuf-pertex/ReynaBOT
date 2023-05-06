@@ -78,7 +78,7 @@
 <details><summary>Replit</summary>
 
 
-![Replit](https:/
+
 
 Untuk pengguna Replit ada beberapa hal yang harus dilakukan.
 - Ubah **Script** di file [`index.mjs`](https://github.com/yusufexpert/ReynaBOT/blob/master/index.mjs) menjadi seperti ini:
