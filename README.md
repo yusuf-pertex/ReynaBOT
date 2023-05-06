@@ -5,29 +5,28 @@
   <a href="Logo">
     <img src="https://cdn.pixabay.com/photo/2018/09/11/14/49/moe-3669736_1280.png" alt="Logo" width="200">
   </a>
-
-  <h2 align="center">© ReynaBOT</h2>
-
+  <br /><br />
+  <img src="https://img.shields.io/badge/%C2%A9-ReynaBOT-white?style=flat" alt="ReynaBOT" width="150">
   <p align="center">
     Simple WhatsApp BOT by <a href="https://wa.me/6283873115706"><b>@yusuf.dkv</b></a>
     <br />
     <a href="https://github.com/yusufexpert/ReynaBOT/blob/master/README.md"><b>Explore the docs »</b></a>
     <br />
     <br />
-    <a href="https://wa.me/6283873115706">Contact</a>
-    •
-    <a href="https://wa.me/6283873115706">Request Feature</a>
-    •
-    <a href="https://wa.me/6283873115706">Report Bug</a>
+    <a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/Contact-blue?style=flat" alt="Contact" height="25"></a>
+    <a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/Request%20Feature-blue?style=flat" alt="Request Feature" height="25"></a>
+    <a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/Report%20Bug-blue?style=flat" alt="Report Bug" height="25"></a>
+    
   </p>
 </div>
 
+---
 ### © ReynaBOT
 **ReynaBOT** adalah BOT ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) yang dibuat oleh [![@yusuf.dkv](https://img.shields.io/badge/@yusuf.dkv-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yusuf.dkv/) menggunakan bahasa pemrograman ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-> Script BOT ini menggunakan client library [`whatsapp-web.js »`](https://github.com/pedroslopez/whatsapp-web.js.git)
+> **Note** Script BOT ini menggunakan client library [`whatsapp-web.js »`](https://github.com/pedroslopez/whatsapp-web.js.git)
 
-![info](https://img.shields.io/badge/INFO-BOT%20akan%20di%20update%20setiap%20minggu-brightgreen?style=flat-square)
+---
 
 <b><details><summary>Daftar isi</summary></b>
 <ol>
@@ -38,6 +37,8 @@
   <li><a href="#contact">Contact »</a></li>
 </ol>
 </details>
+
+---
 
 ### Cara Pakai
 
@@ -112,6 +113,8 @@ const client = new Client({
 </ol>
 </details>	
 
+---
+
 ### Cara menambah Plugin
 Jika ingin menambahkan **Plugin** sendiri anda harus membuatnya di Folder [`plugins »`](https://github.com/yusufexpert/ReynaBOT/tree/master/plugins)
 
@@ -127,6 +130,8 @@ export default {
 }
 ```
 
+---
+
 ### Fitur unggulan
 - [x] Mudah untuk digunakan.
 - [x] Script **`JavaScript`** yang ter-struktur.
@@ -137,12 +142,17 @@ export default {
 
 Lihat di folder [`plugins`](https://github.com/yusufexpert/ReynaBOT/tree/master/plugins) untuk melihat semua Plugin.
 
+---
+
 ### License
 Didistribusikan di bawah Lisensi MIT. Lihat [`LICENSE`](https://github.com/yusufexpert/ReynaBOT/blob/master/LICENSE) untuk informasi lebih lanjut.
 
+---
+
 ### Contact
-- [**@yusuf.dkv**](https://www.instagram.com/yusuf.dkv/)
-- **yusuf.expert.official@gmail.com**
+- [![WhatsApp](https://img.shields.io/badge/+62%20838%207311%205706-25D366?style=flat&logoColor=white&logo=whatsapp)](https://wa.me/6283873115706)
+- [![Instagram](https://img.shields.io/badge/@yusuf.dkv-E4405F?style=flat&logoColor=white&logo=instagram)](https://www.instagram.com/yusuf.dkv/)
+- [![Gmail](https://img.shields.io/badge/yusuf.expert.official@gmail.com-EA4335?style=flat&logoColor=white&logo=gmail)](yusuf.expert.official@gmail.com)
 
 <p align="right"><a href="#readme-top">↑ Back to top</a></p>
 
