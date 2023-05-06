@@ -28,7 +28,8 @@
 
 ---
 
-<b><details><summary>Daftar isi</summary></b>
+<details>
+<summary>Daftar isi</summary>
 <ol>
   <li><a href="#cara-pakai">Cara Pakai »</a></li>
   <li><a href="#cara-menambah-plugin">Cara menambah Plugin »</a></li>
@@ -47,7 +48,6 @@
 - [![NodeJs](https://img.shields.io/badge/Node.js-Download-339933?style=flat&labelColor=white&logo=nodedotjs)](https://nodejs.org/en/download)
 - [![FFmpeg](https://img.shields.io/badge/FFmpeg-Download-007808?style=flat&labelColor=white&logo=ffmpeg&logoColor=007808)](https://ffmpeg.org/download.html)
 
-<ol>
 <details><summary><b>Terminal</b></summary>
 
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
@@ -110,7 +110,6 @@ const client = new Client({
 - Jalankan **Replit** seperti biasa.
 
 </details>
-</ol>
 </details>	
 
 ---
