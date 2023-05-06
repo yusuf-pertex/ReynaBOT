@@ -22,7 +22,7 @@
   </p>
 </div>
 
-## © ReynaBOT
+### © ReynaBOT
 **ReynaBOT** adalah BOT ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) yang dibuat oleh [![@yusuf.dkv](https://img.shields.io/badge/@yusuf.dkv-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yusuf.dkv/) menggunakan bahasa pemrograman ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 > Script BOT ini menggunakan client library [`whatsapp-web.js »`](https://github.com/pedroslopez/whatsapp-web.js.git)
@@ -39,7 +39,7 @@
 </ol>
 </details>
 
-## Cara Pakai
+### Cara Pakai
 
 **Requirements:**
 - [![Git](https://img.shields.io/badge/Git-Download-F05032?style=flat&labelColor=white&logo=git)](https://git-scm.com/downloads)
@@ -112,7 +112,7 @@ const client = new Client({
 </ol>
 </details>	
 
-## Cara menambah Plugin
+### Cara menambah Plugin
 Jika ingin menambahkan **Plugin** sendiri anda harus membuatnya di Folder [`plugins »`](https://github.com/yusufexpert/ReynaBOT/tree/master/plugins)
 
 Lalu mengisinya seperti dibawah ini:
@@ -127,7 +127,7 @@ export default {
 }
 ```
 
-## Fitur unggulan
+### Fitur unggulan
 - [x] Mudah untuk digunakan.
 - [x] Script **`JavaScript`** yang ter-struktur.
 - [x] Memiliki fitur **`Extra`** yang memudahkan Owner BOT.
@@ -137,12 +137,10 @@ export default {
 
 Lihat di folder [`plugins`](https://github.com/yusufexpert/ReynaBOT/tree/master/plugins) untuk melihat semua Plugin.
 
-## License
+### License
 Didistribusikan di bawah Lisensi MIT. Lihat [`LICENSE`](https://github.com/yusufexpert/ReynaBOT/blob/master/LICENSE) untuk informasi lebih lanjut.
 
-## Contact
-
-**Yusuf**
+### Contact
 - [**@yusuf.dkv**](https://www.instagram.com/yusuf.dkv/)
 - **yusuf.expert.official@gmail.com**
 
