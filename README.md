@@ -48,7 +48,9 @@
 - [![NodeJs](https://img.shields.io/badge/Node.js-Download-339933?style=flat&labelColor=white&logo=nodedotjs)](https://nodejs.org/en/download)
 - [![FFmpeg](https://img.shields.io/badge/FFmpeg-Download-007808?style=flat&labelColor=white&logo=ffmpeg&logoColor=007808)](https://ffmpeg.org/download.html)
 
-<details><summary><b>Terminal</b></summary>
+
+<details><summary>Terminal</summary>
+
 
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
 
@@ -71,8 +73,10 @@
    npm start
    ```
 
+
 </details>
-<details><summary><b>Replit</b></summary>
+<details><summary>Replit</summary>
+
 
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
 
@@ -109,8 +113,9 @@ const client = new Client({
 ```
 - Jalankan **Replit** seperti biasa.
 
+
 </details>
-</details>	
+
 
 ---
 
