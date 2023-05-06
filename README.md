@@ -1,23 +1,18 @@
-<a name="readme-top"></a>
-
+<a name="top"></a>
 <br>
 <div align="center">
-  <a href="Logo">
     <img src="https://cdn.pixabay.com/photo/2018/09/11/14/49/moe-3669736_1280.png" alt="Logo" width="200">
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/%C2%A9-ReynaBOT-white?style=flat" alt="ReynaBOT" width="125">
-  <p align="center">
-    Simple WhatsApp BOT by <a href="https://wa.me/6283873115706"><b>@yusuf.dkv</b></a>
-    <br>
-    <a href="https://github.com/yusufexpert/ReynaBOT/blob/master/README.md"><b>Explore the docs »</b></a>
-    <br>
-    <br>
-    <a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/Contact-blue?style=flat" alt="Contact" height="25"></a>
-    <a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/Request%20Feature-blue?style=flat" alt="Request Feature" height="25"></a>
-    <a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/Report%20Bug-blue?style=flat" alt="Report Bug" height="25"></a>
-    
-  </p>
+    <br><br>
+    <img src="https://img.shields.io/badge/%C2%A9-ReynaBOT-white?style=flat" alt="ReynaBOT" width="125">
+    <p align="center">
+        Simple WhatsApp BOT by <a href="https://wa.me/6283873115706">@yusuf.dkv</a>
+        <br>
+        <a href="https://github.com/yusufexpert/ReynaBOT/blob/master/README.md"><b>Explore the docs ></b></a>
+        <br><br>
+        <a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/Contact-blue?style=flat" alt="Contact"></a>
+        <a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/Request%20Feature-blue?style=flat" alt="Request Feature"></a>
+        <a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/Report%20Bug-blue?style=flat" alt="Report"></a>
+    </p>
 </div>
 <hr>
 
@@ -30,13 +25,15 @@
 
 <details>
 <summary>Daftar isi</summary>
-<ol>
-  <li><a href="#cara-pakai">Cara Pakai »</a></li>
-  <li><a href="#cara-menambah-plugin">Cara menambah Plugin »</a></li>
-  <li><a href="#fitur-unggulan">Fitur Unggulan »</a></li>
-  <li><a href="#license">License »</a></li>
-  <li><a href="#contact">Contact »</a></li>
-</ol>
+<div markdown="1">
+
+1. [Cara Pakai »](#cara-pakai)
+2. [Cara Menambah Plugin »](#cara-menambah-plugin)
+3. [Fitur Unggulan »](#fitur-unggulan)
+4. [License »](#license)
+5. [Contact »](#contact)
+
+</div>
 </details>
 
 <hr>
@@ -49,10 +46,11 @@
 - [![FFmpeg](https://img.shields.io/badge/FFmpeg-Download-007808?style=flat&labelColor=white&logo=ffmpeg&logoColor=007808)](https://ffmpeg.org/download.html)
 
 
-<details><summary>Terminal</summary>
+<details>
+<summary>Terminal</summary>
+<div markdown="1">
 
-
-
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
 
 - Buka **Terminal**
 - Mengkloning Repository
@@ -73,12 +71,14 @@
    npm start
    ```
 
-
+</div>
 </details>
-<details><summary>Replit</summary>
-
-
-
+        
+<details>
+<summary>Replit</summary>
+<div markdown="1">
+	
+![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
 
 Untuk pengguna Replit ada beberapa hal yang harus dilakukan.
 - Ubah **Script** di file [`index.mjs`](https://github.com/yusufexpert/ReynaBOT/blob/master/index.mjs) menjadi seperti ini:
@@ -113,14 +113,10 @@ const client = new Client({
 ```
 - Jalankan **Replit** seperti biasa.
 
-
+</div>
 </details>
 
-
 <hr>
-
-
-
 
 ### Cara menambah Plugin
 Jika ingin menambahkan **Plugin** sendiri anda harus membuatnya di Folder [`plugins »`](https://github.com/yusufexpert/ReynaBOT/tree/master/plugins)
