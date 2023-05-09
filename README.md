@@ -15,10 +15,12 @@
     </p>
 </div>
 <hr>
-<div align="center">
+<div align="center" markdown="1">
+<br>
 
-> **Warning** Script ini sudah tidak dilanjutkan lagi
+> **Warning** **Script ini sudah tidak dilanjutkan lagi**
 
+<br>
 </div>
 <hr>
 
