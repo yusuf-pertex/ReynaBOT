@@ -15,6 +15,12 @@
     </p>
 </div>
 <hr>
+<div align="center">
+
+> **Warning** Script ini sudah tidak dilanjutkan lagi
+
+</div>
+<hr>
 
 ### © ReynaBOT
 **ReynaBOT** adalah BOT ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) yang dibuat oleh [![@yusuf.dkv](https://img.shields.io/badge/@yusuf.dkv-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yusuf.dkv/) menggunakan bahasa pemrograman ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
