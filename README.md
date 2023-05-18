@@ -1,7 +1,7 @@
 <a name="top"></a>
 <br>
 <div align="center">
-    <img src="https://cdn.pixabay.com/photo/2018/09/11/14/49/moe-3669736_1280.png" alt="Logo" width="200">
+    <img src="./logo.png" alt="Logo" width="275">
     <br><br>
     <img src="https://img.shields.io/badge/%C2%A9-ReynaBOT-white?style=flat" alt="ReynaBOT" width="125">
     <p align="center">
